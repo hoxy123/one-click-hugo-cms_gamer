@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://xgamer.netlify.app/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
