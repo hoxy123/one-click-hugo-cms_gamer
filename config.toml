@@ -1,6 +1,6 @@
 baseurl = "https://xgamer.netlify.app/"
 languageCode = "en-us"
-theme = "hello-friend"
+theme = "hugo-theme-hello-friend"
 paginate = 5
 
 [params]
